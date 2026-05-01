@@ -1,7 +1,7 @@
 Source: docparser
 Section: libdevel
 Priority: optional
-Maintainer: deepin <packages@deepin.com>
+Maintainer: Lingmo OS Team <team@lingmo.org>
 Build-Depends:
  cmake,
  debhelper (>= 11),
@@ -14,7 +14,8 @@ Build-Depends:
  uuid-dev,
  libtinyxml2-dev,
  libmagic-dev
-Standards-Version: 4.3.0
+Standards-Version: 4.5.0
+Homepage: https://github.com/LingmoOS/docparser
 
 Package: libdocparser
 Architecture: any

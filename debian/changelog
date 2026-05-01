@@ -1,3 +1,9 @@
+docparser (1.0.26.lingmo.1) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 01 May 2026 21:14:00 +0800
+
 docparser (1.0.25) unstable; urgency=medium
 
   * add ET file format support
